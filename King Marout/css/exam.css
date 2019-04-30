@@ -1,0 +1,171 @@
+.section-one
+{
+    background-image: url(../image/wall.jpg);
+    width: 100%;
+    height: 100%;
+    
+    
+}
+.form-group
+{
+    position: absolute;
+    bottom: 50%;
+    left: 34%;
+    
+    
+}
+.section-two
+{
+    border-top: solid 20px #f9f9f9;
+    border-bottom: solid 20px #f9f9f9;
+    width: 100%;
+    height: 1000px;
+    position: relative;
+}
+.layout
+{
+    background-image: url(../image/kma5.jpg);
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    animation-name: hambozo;
+    animation-iteration-count: infinite;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-play-state: paused;
+    
+    
+    
+    
+}
+@keyframes hambozo
+{
+    
+    0%{background-image: url(../image/kma5.jpg);}
+    5%{background-image: url(../image/t3.jpg);}
+    10%{background-image: url(../image/kma2.jpg);}
+    15%{background-image: url(../image/kma6.jpg);}
+    20%{background-image: url(../image/kma8.jpg);}
+    30%{background-image: url(../image/kma7.jpg);}
+    35%{background-image: url(../image/kma5.jpg);}
+    40%{background-image: url(../image/kma2.jpg);}
+    50%{background-image: url(../image/t3.jpg);}
+    60%{background-image: url(../image/kma2.jpg);}
+    70%{background-image: url(../image/kma6.jpg);}
+    80%{background-image: url(../image/kma8.jpg);}
+    90%{background-image: url(../image/kma7.jpg);}
+    95%{background-image: url(../image/t3.jpg);}
+    100%{background-image: url(../image/kma7.jpg);}
+    
+
+}
+.Hust
+{
+  background-color: rgba(0,0,0,0.5);
+  width: 100%;
+  height: 100%;
+  font-size: 50%;  
+}
+.Move
+{
+  color: rgba(255,255,255,0.5);
+  position: absolute;
+  top: 30%;
+  left: 36%;
+}
+#hustlin
+{
+  color: rgba(255,255,255,0.5);
+  position: absolute;
+  top: 40%;
+  left: 35%;
+}
+.section-three
+{
+    background-image: url(../image/background.jpg);
+    background-size: 100% 100%;
+    border-bottom: solid 20px #f9f9f9;
+    width: 100%;
+    height: 600px;
+    position: relative;
+}
+.hambozo2
+{
+    position: absolute;
+    top: 20%;
+    left: 11%;
+}
+.hambozo {
+    border: solid 1px #09cf;
+    display: inline-block;
+    line-height: 1;
+    padding: 20px;
+    font-size: 40px;
+    
+  }
+  
+  span {
+    display: block;
+    font-size: 20px;
+    color: white;
+  }
+  
+  #days {
+    font-size: 50px;
+    color: #09c;
+  }
+  #hours {
+    font-size: 50px;
+    color: #f02222;
+  }
+  #minutes {
+    font-size: 50px;
+    color: #74f68a;
+  }
+  #seconds {
+    font-size: 50px;
+    color: #cd58b0;
+  }
+.section-four
+{
+    widows: 100%;
+    height: 800px;
+}   
+.ozil
+{
+    display: inline-block;
+    font-size: 400px;
+    transform: skew(10deg,20deg);
+    
+}
+#rgbOne
+  {
+    color: #22f033;
+  }
+ #rgbTwo
+  {
+      color: #09c;
+  }
+ #rgbThree
+  {
+      color: #f02222;
+  }
+
+
+   
+.section-five{
+  background-image: url(../image/back.jpg);
+  text-align: center;
+  width: 100%;
+  height: 600px;
+}
+.form-control
+{
+  background-color: rgb(247, 153, 255);
+}
+.form-group1
+{
+  width: 50%;
+}
+
